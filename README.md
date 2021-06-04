@@ -2,8 +2,7 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/profile.php?id=100016801905597)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
@@ -24,7 +23,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100016801905597' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
 
